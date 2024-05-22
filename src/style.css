@@ -1,11 +1,8 @@
-body, html {
-    height: 100%;
-    margin: 0;
+body {
+    font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-#bemvindo {
-    color: blue;
+    height: 100vh;
+    margin: 0;
 }
